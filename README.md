@@ -27,7 +27,7 @@ You can purchase this book digital edition from below mentioned links.
 1. [Amazon](https://www.amazon.in/dp/B08DTBMTBP)
 2. [Google Play Books](https://play.google.com/store/books/details/Ahesanali_Suthar_Android_app_development_guide?id=jgufDwAAQBAJ&hl=en)
 3. [Kobo Books](https://www.kobo.com/in/en/ebook/android-app-development-guide)
-4. [Lean Pub] (https://leanpub.com/android-book/)
+4. [Lean Pub](https://leanpub.com/android-book/)
 
 If you wish to purchase paperback edition of this book you can purchase it from below mentioned link.
-1. [Amazon] (https://www.amazon.com/Android-development-guide-AhesanAli-Suthar/dp/B08DSS7LL3/ref=sr_1_8?keywords=Android+app+development+guide&qid=1601787184&sr=8-8)
+1. [amazon.com](https://www.amazon.com/Android-development-guide-AhesanAli-Suthar/dp/B08DSS7LL3/ref=sr_1_8?keywords=Android+app+development+guide&qid=1601787184&sr=8-8)
