@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Business Detail"
+        android:key="business_detail">
+
+
+        <EditTextPreference
+            android:key="business_name"
+            android:summary="Your business name"
+            android:title="Business Name"
+            />
+        <EditTextPreference
+            android:key="business_address"
+            android:summary="Your Business Address"
+            android:title="Business Address"
+            />
+    </PreferenceCategory>
+</PreferenceScreen>
