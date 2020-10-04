@@ -1,4 +1,6 @@
 # aadg (Android App Development Guide)
+![Book Cover](https://github.com/ahesanali/aadg/blob/master/android-book-cover.png)
+
 Android App Development Guide book source code.
 
 
